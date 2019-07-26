@@ -1,0 +1,1 @@
+var app = angular.module('pinyougou', []);//自定义品优购模块不引用分页模块
